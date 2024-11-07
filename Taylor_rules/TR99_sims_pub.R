@@ -54,7 +54,7 @@ rstar <- rstar %>%
 # Load FRED data:
 
 # Set your FRED API key
-fredr_set_key("a96399a2a52bfff6ea1f93aa73bb13d5")
+fredr_set_key("711d25f225b04d86b2159bca07e18cf8")
 
 # FredR units:	
 # A string indicating the data value transformation. Defaults to "lin". Possible values are:
